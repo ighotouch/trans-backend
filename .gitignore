@@ -1,0 +1,36 @@
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+
+# npm
+node_modules
+package-lock.json
+*.log
+*.gz
+
+
+# Coveralls
+coverage
+
+# Benchmarking
+benchmarks/graphs

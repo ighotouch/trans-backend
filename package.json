@@ -1,0 +1,22 @@
+{
+  "name": "trans-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ighotouch/trans-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ighotouch/trans-backend/issues"
+  },
+  "homepage": "https://github.com/ighotouch/trans-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
